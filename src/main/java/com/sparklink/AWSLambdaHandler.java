@@ -5,13 +5,14 @@ import com.amazonaws.services.lambda.runtime.LambdaLogger;
 import com.amazonaws.services.lambda.runtime.RequestHandler;
 
 
-public class SimpleHandler implements RequestHandler<String,String> {
+public class AWSLambdaHandler implements RequestHandler<String,String> {
 
     public String handleRequest(String input, Context context){
         LambdaLogger logger = context.getLogger();
         logger.log("Input string : " + input);
         return processRequest(input,context);
     }
+
 
     public String processRequest(String input, Context context){
         LambdaLogger logger = context.getLogger();
