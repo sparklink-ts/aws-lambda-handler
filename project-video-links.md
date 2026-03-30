@@ -1,3 +1,8 @@
+
+***-:::: AWS Lambda ::::-***
+
+
+
 ***AWS Java Spring Boot Microservices | Lambda | S3 | SNS |API Gateway Using Java Handler***
 
 *YouTube Video Links (All Videos)*
@@ -28,5 +33,15 @@ AWS Java Spring Boot Microservices Lambda S3 SNS API Gateway Using Java Handler 
         https://youtu.be/KUBY-38jJFE
 
 
-        
 
+
+***AWS | Lambda | String  | Upper Case | Java***
+        
+*YouTube Video Links (All Videos)*
+
+        https://www.youtube.com/playlist?list=PL9SCFf2XVh6heP5Drv96o492TVFFiVKNa
+
+
+AWS | Lambda | String  | Upper Case | Java   
+
+        https://youtu.be/UfKtfvEqvk0
